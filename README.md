@@ -1,7 +1,4 @@
-Here's the complete detailed README I created earlier:
 
-markdown
-Copy
 # 🏝️ Golden Isles Tourism Dashboard
 
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://golden-isles-dashboard.netlify.app)
